@@ -1,0 +1,130 @@
+[29-Dec-2025 06:29:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php:351
+Stack trace:
+#0 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(341): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#2 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 351
+[29-Dec-2025 06:44:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php:351
+Stack trace:
+#0 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(341): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#2 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 351
+[29-Dec-2025 06:45:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php:351
+Stack trace:
+#0 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(341): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#2 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 351
+[29-Dec-2025 06:46:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php:351
+Stack trace:
+#0 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(341): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#2 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 351
+[29-Dec-2025 06:48:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php:351
+Stack trace:
+#0 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(341): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#2 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 351
+[29-Dec-2025 06:49:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php:351
+Stack trace:
+#0 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(341): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#2 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 351
+[29-Dec-2025 06:51:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php:351
+Stack trace:
+#0 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(341): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#2 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 351
+[29-Dec-2025 06:51:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php:351
+Stack trace:
+#0 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(341): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#2 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 351
+[29-Dec-2025 06:52:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php:351
+Stack trace:
+#0 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(341): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#2 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 351
+[29-Dec-2025 06:52:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php:351
+Stack trace:
+#0 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(341): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#2 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 351
+[29-Dec-2025 06:54:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php:351
+Stack trace:
+#0 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(341): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#2 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 351
+[24-Jan-2026 01:12:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php:351
+Stack trace:
+#0 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(341): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#2 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 351
+[30-Jan-2026 14:42:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php:351
+Stack trace:
+#0 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(341): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#2 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 351
+[30-Jan-2026 14:57:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php:351
+Stack trace:
+#0 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(341): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#2 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 351
+[30-Jan-2026 14:58:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php:351
+Stack trace:
+#0 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(341): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#2 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 351
+[30-Jan-2026 14:58:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php:351
+Stack trace:
+#0 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(341): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#2 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\LE TRI NHAN\Local Sites\cua-hang-agu\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 351
+[30-Jan-2026 15:37:20 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[31-Jan-2026 08:30:08 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
